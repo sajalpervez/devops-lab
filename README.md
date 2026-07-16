@@ -12,3 +12,6 @@ Sajal Pervez
 ## Bug Fix
 
 The login button issue has been fixed.
+## Future Features
+
+- Dark Mode
