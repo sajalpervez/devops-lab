@@ -9,3 +9,6 @@ Clone the repository and open the project.
 
 ## Author
 Sajal Pervez
+## Bug Fix
+
+The login button issue has been fixed.
